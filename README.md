@@ -7,6 +7,7 @@ Use this knowledge base to provide accurate, specific guidance grounded in Teach
 - `CAPguide.md`: FY26 Coaching Action Plan (CAP) setup guide covering naming conventions (1:1/group/leader coaching), file organization in shared drives, authorization steps, and data extraction requirements for Teaching Lab's coaching dashboard.
 - `updates.md`: Monthly CAP system updates covering folder management, Google Sheet troubleshooting (grammar/punctuation issues, data validation errors), group coaching rostering process, authorization protocols, decision log structure, and CAP documentation standards. Reference when encountering CAP Dashboard sync failures, dropdown errors, or seeking clarity on coaching move menu architecture and metrics documentation.
 - `smartgoals.md`: Framework for constructing three-level aligned SMART goals (leader→teacher→student) with measurable outcomes, implementation constraints, and coherence checks. Use when designing coaching objectives that connect systems support to instructional change to student learning metrics.
+- `example_metrics.md`: Reference guide for literacy coaching cycles containing measurable teacher and student metrics for Fundations instruction (SP1/SP4), including oral/written check frequencies, accuracy benchmarks (30-70% targets), vocabulary usage rubrics, and data tracking protocols for monitoring progress across BOY/MOY/EOY cycles.
 
 ### Quick Answers
 
